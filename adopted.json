@@ -1,0 +1,259 @@
+[
+    {
+        "id": 1,
+        "name": "Pepo",
+        "gender": "Macho",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094492/assets/pepo-nieve-muero_ub32hk.jpg",
+        "img_2": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094474/assets/pepo-bebe-desmayo_nrz6s5.jpg",
+        "img_3": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094473/assets/pepi-siendo-mono_kvweju.jpg",
+        "img_4": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094499/assets/pepo-comunion_xn7zdy.png",
+        "img_5": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094512/assets/mi-pepo-de-algodon_p4dv33.png",
+        "img_6": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094543/assets/pepo-nieve-inlove_fveyf7.jpg",
+        "img_7": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094539/assets/pepo-bosteza_g8b9lg.png",
+        "img_8": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094555/assets/pepo-disfruton_olbkrh.jpg",
+        "img_9": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094495/assets/pepa-y-pepo-ventana_p49urf.jpg",
+        "video": "https://res.cloudinary.com/dvfxffbqu/video/upload/v1677094542/assets/barbilla-pepo-inmove_hh3ayp.mp4",
+        "video_2": "https://res.cloudinary.com/dvfxffbqu/video/upload/v1677094515/assets/video-pepi-diente_wp94ca.mp4"
+    },
+    {
+        "id": 2,
+        "name": "Pepa",
+        "gender": "Hembra",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094525/assets/pepa-durmiente_dkrn8x.png",
+        "img_2": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094496/assets/pepa-reina_uvqyts.jpg",
+        "img_3": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094486/assets/abrazo-pepa-y-pepo_tyw7zq.jpg",
+        "img_4": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094506/assets/pepa-monisima_zcgq26.png",
+        "img_5": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094514/assets/luces-pepa_xrk6t5.png",
+        "img_6": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094513/assets/pepos-sofa_svipra.png",
+        "video": "https://res.cloudinary.com/dvfxffbqu/video/upload/v1677094533/assets/pepa-preciosa-again_ilt3ki.mp4",
+        "video_2": "https://res.cloudinary.com/dvfxffbqu/video/upload/v1677094532/assets/pepa-me-enamoro_xbv3dw.mp4",
+        "video_3": "https://res.cloudinary.com/dvfxffbqu/video/upload/v1677094543/assets/pepa-savage_qwhwov.mov",
+        "video_4": "https://res.cloudinary.com/dvfxffbqu/video/upload/v1677094514/assets/pepa-bolita_djzr4p.mp4",
+        "video_5": "https://res.cloudinary.com/dvfxffbqu/video/upload/v1677094500/assets/los-pepos-amandose_unrwrk.mov"
+    },
+    {
+        "id": 3,
+        "name": "Papi",
+        "gender": "Macho",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094523/assets/papi-bebe-muero_d45xss.png",
+        "img_2": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094520/assets/papito-abrazado_uexrvt.png",
+        "img_3": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094532/assets/papito-bebe_ougba5.png",
+        "video": "https://res.cloudinary.com/dvfxffbqu/video/upload/v1677094533/assets/pepa-preciosa-again_ilt3ki.mp4"
+    },
+    {
+        "id": 4,
+        "name": "Trufa",
+        "gender": "Hembra",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094553/assets/mishi_vpgsgl.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Timón",
+        "gender": "Macho",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094548/assets/bolita-de-algodon_ki8f59.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Falcao",
+        "gender": "Macho",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094544/assets/nuez-y-moscada-3_ahjyig.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Haru",
+        "city": "Móstoles",
+        "gender": "Macho",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094544/assets/haru_zunftm.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Pochin",
+        "city": "Aranjuez",
+        "gender": "Male",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094544/assets/haru_zunftm.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Lola",
+        "city": "Villalba",
+        "gender": "Hembra",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094570/assets/lola_aifbwv.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Caressa",
+        "city": "Coslada",
+        "gender": "Hembra",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094571/assets/perlita_hembra_h96mx7.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Sweetie",
+        "city": "Los Molinos",
+        "gender": "Hembra",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094568/assets/sweetie_ybvlzp.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Kristyn",
+        "city": "Las Rozas",
+        "gender": "Hembra",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094570/assets/feline_q47tni.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Mochi",
+        "city": "Usera",
+        "gender": "Hembra",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094572/assets/mochi_qt1ogh.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Misa Amane",
+        "city": "Vallecas",
+        "gender": "Hembra",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094577/assets/misa-amane_izzlun.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Pepina",
+        "city": "Fuenlabrada",
+        "gender": "Hembra",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094572/assets/pepina_si1qnn.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Pepe",
+        "city": "Meco",
+        "gender": "Macho",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094551/assets/pepe_uxyrgx.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Teddy",
+        "city": "Hortaleza",
+        "gender": "Macho",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094529/assets/teddy_zxhdit.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Kitty",
+        "city": "Ciudad de los Ángeles",
+        "gender": "Hembra",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094521/assets/kitty_c0tcyj.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Chapulín",
+        "city": "Legazpi",
+        "gender": "Macho",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094490/assets/chapuli%CC%81n_c1a2cv.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Doofenshmirtz",
+        "city": "Embajadores",
+        "gender": "Macho",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094488/assets/doofenshmirtz_zzynlo.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Nube",
+        "city": "Villaverde",
+        "gender": "Hembra",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094488/assets/nube_kin1i5.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Bigotes",
+        "city": "Barajas",
+        "gender": "Macho",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094488/assets/nube_kin1i5.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Po",
+        "city": "Vicálvaro",
+        "gender": "Macho",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094483/assets/po_i3pnpp.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Boloñesa",
+        "city": "Carabanchel",
+        "gender": "Hembra",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094482/assets/bolon%CC%83esa_j34rq2.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Ferrerito",
+        "city": "Fuencarral",
+        "gender": "Macho",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094481/assets/ferrerito_pqy3w2.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Jack",
+        "city": "Casa de Campo",
+        "gender": "Macho",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094481/assets/ferrerito_pqy3w2.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Bella",
+        "city": "Pinto",
+        "gender": "Hembra",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094478/assets/pepota_o2oshb.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Garfield",
+        "city": "San Martín de la Vaga",
+        "gender": "Macho",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094473/assets/garfield_qh2fhj.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Cardi",
+        "city": "Cercedilla",
+        "gender": "Hembra",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094470/assets/cardi_vyrkjx.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Bimo",
+        "city": "Colmenar Viejo",
+        "gender": "Macho",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094468/assets/Bimo_dtmqyp.jpg"
+    }
+]
