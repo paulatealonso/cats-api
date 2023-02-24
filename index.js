@@ -18,11 +18,11 @@ app.get("/:id", (request, response) => {
     response.status(200).send({response: true, cats: results});
 });
 
-app.get("/", (request, response) => {
+app.get("/adopted", (request, response) => {
     response.send({response: true, code: 200, adopted: adopted});
 });
 
-app.get("/:id", (request, response) => {
+app.get("/adopted:id", (request, response) => {
     const { id } = request.params;
     const results = adopted.filter(adopt => adopt.id === Number(id));
     response.status(200).send({response: true, adopted: results});
