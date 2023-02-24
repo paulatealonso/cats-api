@@ -12,17 +12,17 @@ app.get("/", (request, response) => {
     response.send({response: true, code: 200, cats: cats});
 });
 
-app.get("/:id", (request, response) => {
-    const { id } = request.params;
-    const results = cats.filter(user => user.id === Number(id));
-    response.status(200).send({response: true, cats: results});
-});
-
 app.get("/adopted", (request, response) => {
     response.send({response: true, code: 200, adopted: adopted});
 });
+app.get("/:id", (request, response) => {
+    const { id } = request.params;
+    const results = cats.filter(user => user.id === (id));
+    response.status(200).send({response: true, cats: results});
+});
 
-app.get("/adopted:id", (request, response) => {
+
+app.get("/adopted/:id", (request, response) => {
     const { id } = request.params;
     const results = adopted.filter(adopt => adopt.id === Number(id));
     response.status(200).send({response: true, adopted: results});
