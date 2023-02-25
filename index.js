@@ -17,8 +17,8 @@ app.get("/adopted", (request, response) => {
 });
 app.get("/:id", (request, response) => {
     const { id } = request.params;
-    const results = cats.filter(user => user.id === (id));
-    response.status(200).send({response: true, cats: results});
+    const results = cats.filter(user => user.id === Number(id));
+    response.send({response: true, code: 200, cats: results});
 });
 
 
