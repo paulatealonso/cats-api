@@ -14,11 +14,13 @@ app.get("/", (request, response) => {
 
 app.get("/adopted", (request, response) => {
     response.send({response: true, code: 200, adopted: adopted});
+    console.log(response, '--------');
 });
 app.get("/:id", (request, response) => {
     const { id } = request.params;
     const results = cats.filter(user => user.id === Number(id));
     response.send({response: true, code: 200, cats: results});
+    console.log(id, response, '--------------', results);
 });
 
 
