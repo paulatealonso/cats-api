@@ -4,6 +4,9 @@
     "city": "Alcalá de Henares",
     "gender": "Macho",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "descrip": "Un gato también puede ser tu mejor amigo.",
+    "desc": "El paraíso jamás será paraíso a no ser que mis gatos estén ahí esperándome.",
+    "des": "Como todo dueño de un gato sabe, nadie es dueño de un gato.",
     "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094563/assets/pepo-junior_v6q7h9.jpg"
   }, {
     "id": 2,
@@ -11,6 +14,9 @@
     "city": "Torrejón de Ardoz",
     "gender": "Macho",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "descrip": "Un gato también puede ser tu mejor amigo.",
+    "desc": "El paraíso jamás será paraíso a no ser que mis gatos estén ahí esperándome.",
+    "des": "Como todo dueño de un gato sabe, nadie es dueño de un gato.",
     "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094556/assets/pochet_uakysx.jpg"
   }, {
     "id": 3,
@@ -18,6 +24,9 @@
     "city": "San Sebastián de los Reyes",
     "gender": "Hembra",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "descrip": "Un gato también puede ser tu mejor amigo.",
+    "desc": "El paraíso jamás será paraíso a no ser que mis gatos estén ahí esperándome.",
+    "des": "Como todo dueño de un gato sabe, nadie es dueño de un gato.",
     "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094555/assets/jazmin_zvgync.jpg"
   }, {
     "id": 4,
@@ -25,6 +34,9 @@
     "city": "Sobradinho",
     "gender": "Hembra",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "descrip": "Un gato también puede ser tu mejor amigo.",
+    "desc": "El paraíso jamás será paraíso a no ser que mis gatos estén ahí esperándome.",
+    "des": "Como todo dueño de un gato sabe, nadie es dueño de un gato.",
     "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094553/assets/mishi_vpgsgl.jpg"
   }, {
     "id": 5,
@@ -32,6 +44,9 @@
     "city": "Torrelodones",
     "gender": "Macho",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "descrip": "Un gato también puede ser tu mejor amigo.",
+    "desc": "El paraíso jamás será paraíso a no ser que mis gatos estén ahí esperándome.",
+    "des": "Como todo dueño de un gato sabe, nadie es dueño de un gato.",
     "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094548/assets/bolita-de-algodon_ki8f59.jpg"
   }, {
     "id": 6,
@@ -39,6 +54,9 @@
     "city": "Getafe",
     "gender": "Macho y hembra",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "descrip": "Un gato también puede ser tu mejor amigo.",
+    "desc": "El paraíso jamás será paraíso a no ser que mis gatos estén ahí esperándome.",
+    "des": "Como todo dueño de un gato sabe, nadie es dueño de un gato.",
     "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094544/assets/nuez-y-moscada-3_ahjyig.jpg",
     "img_2": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094469/assets/nuez-y-moscada_lkelzj.jpg",
     "img_3": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094467/assets/nuez-y-moscada-2_dgydlz.jpg"
@@ -48,6 +66,9 @@
     "city": "Móstoles",
     "gender": "Macho",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "descrip": "Un gato también puede ser tu mejor amigo.",
+    "desc": "El paraíso jamás será paraíso a no ser que mis gatos estén ahí esperándome.",
+    "des": "Como todo dueño de un gato sabe, nadie es dueño de un gato.",
     "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094544/assets/haru_zunftm.jpg"
 },
 {
@@ -56,6 +77,9 @@
     "city": "Aranjuez",
     "gender": "Male",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "descrip": "Un gato también puede ser tu mejor amigo.",
+    "desc": "El paraíso jamás será paraíso a no ser que mis gatos estén ahí esperándome.",
+    "des": "Como todo dueño de un gato sabe, nadie es dueño de un gato.",
     "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094544/assets/haru_zunftm.jpg"
 },
 {
@@ -64,6 +88,9 @@
     "city": "Villalba",
     "gender": "Hembra",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "descrip": "Un gato también puede ser tu mejor amigo.",
+    "desc": "El paraíso jamás será paraíso a no ser que mis gatos estén ahí esperándome.",
+    "des": "Como todo dueño de un gato sabe, nadie es dueño de un gato.",
     "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094570/assets/lola_aifbwv.jpg"
 },
 {
@@ -72,6 +99,9 @@
     "city": "Coslada",
     "gender": "Hembra",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "descrip": "Un gato también puede ser tu mejor amigo.",
+    "desc": "El paraíso jamás será paraíso a no ser que mis gatos estén ahí esperándome.",
+    "des": "Como todo dueño de un gato sabe, nadie es dueño de un gato.",
     "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094571/assets/perlita_hembra_h96mx7.jpg"
 },
 {
@@ -80,6 +110,9 @@
     "city": "Los Molinos",
     "gender": "Hembra",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "descrip": "Un gato también puede ser tu mejor amigo.",
+    "desc": "El paraíso jamás será paraíso a no ser que mis gatos estén ahí esperándome.",
+    "des": "Como todo dueño de un gato sabe, nadie es dueño de un gato.",
     "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094568/assets/sweetie_ybvlzp.jpg"
 },
 {
@@ -88,6 +121,9 @@
     "city": "Las Rozas",
     "gender": "Hembra",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "descrip": "Un gato también puede ser tu mejor amigo.",
+    "desc": "El paraíso jamás será paraíso a no ser que mis gatos estén ahí esperándome.",
+    "des": "Como todo dueño de un gato sabe, nadie es dueño de un gato.",
     "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094570/assets/feline_q47tni.jpg"
 },
 {
@@ -96,6 +132,9 @@
     "city": "Usera",
     "gender": "Hembra",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "descrip": "Un gato también puede ser tu mejor amigo.",
+    "desc": "El paraíso jamás será paraíso a no ser que mis gatos estén ahí esperándome.",
+    "des": "Como todo dueño de un gato sabe, nadie es dueño de un gato.",
     "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094572/assets/mochi_qt1ogh.jpg"
 },
 {
@@ -104,6 +143,9 @@
     "city": "Vallecas",
     "gender": "Hembra",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "descrip": "Un gato también puede ser tu mejor amigo.",
+    "desc": "El paraíso jamás será paraíso a no ser que mis gatos estén ahí esperándome.",
+    "des": "Como todo dueño de un gato sabe, nadie es dueño de un gato.",
     "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094577/assets/misa-amane_izzlun.jpg"
 },
 {
@@ -112,6 +154,9 @@
     "city": "Fuenlabrada",
     "gender": "Hembra",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "descrip": "Un gato también puede ser tu mejor amigo.",
+    "desc": "El paraíso jamás será paraíso a no ser que mis gatos estén ahí esperándome.",
+    "des": "Como todo dueño de un gato sabe, nadie es dueño de un gato.",
     "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094572/assets/pepina_si1qnn.jpg"
 },
 {
@@ -120,6 +165,9 @@
     "city": "Meco",
     "gender": "Macho",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "descrip": "Un gato también puede ser tu mejor amigo.",
+    "desc": "El paraíso jamás será paraíso a no ser que mis gatos estén ahí esperándome.",
+    "des": "Como todo dueño de un gato sabe, nadie es dueño de un gato.",
     "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094551/assets/pepe_uxyrgx.jpg"
 },
 {
@@ -128,6 +176,9 @@
     "city": "Hortaleza",
     "gender": "Macho",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "descrip": "Un gato también puede ser tu mejor amigo.",
+    "desc": "El paraíso jamás será paraíso a no ser que mis gatos estén ahí esperándome.",
+    "des": "Como todo dueño de un gato sabe, nadie es dueño de un gato.",
     "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094529/assets/teddy_zxhdit.jpg"
 },
 {
@@ -136,6 +187,9 @@
     "city": "Ciudad de los Ángeles",
     "gender": "Hembra",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "descrip": "Un gato también puede ser tu mejor amigo.",
+    "desc": "El paraíso jamás será paraíso a no ser que mis gatos estén ahí esperándome.",
+    "des": "Como todo dueño de un gato sabe, nadie es dueño de un gato.",
     "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094521/assets/kitty_c0tcyj.jpg"
 },
 {
@@ -144,6 +198,9 @@
     "city": "Legazpi",
     "gender": "Macho",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "descrip": "Un gato también puede ser tu mejor amigo.",
+    "desc": "El paraíso jamás será paraíso a no ser que mis gatos estén ahí esperándome.",
+    "des": "Como todo dueño de un gato sabe, nadie es dueño de un gato.",
     "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094490/assets/chapuli%CC%81n_c1a2cv.jpg"
 },
 {
@@ -152,6 +209,9 @@
     "city": "Embajadores",
     "gender": "Macho",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "descrip": "Un gato también puede ser tu mejor amigo.",
+    "desc": "El paraíso jamás será paraíso a no ser que mis gatos estén ahí esperándome.",
+    "des": "Como todo dueño de un gato sabe, nadie es dueño de un gato.",
     "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094488/assets/doofenshmirtz_zzynlo.jpg"
 },
 {
@@ -160,6 +220,9 @@
     "city": "Villaverde",
     "gender": "Hembra",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "descrip": "Un gato también puede ser tu mejor amigo.",
+    "desc": "El paraíso jamás será paraíso a no ser que mis gatos estén ahí esperándome.",
+    "des": "Como todo dueño de un gato sabe, nadie es dueño de un gato.",
     "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094488/assets/nube_kin1i5.jpg"
 },
 {
@@ -168,6 +231,9 @@
     "city": "Barajas",
     "gender": "Macho",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "descrip": "Un gato también puede ser tu mejor amigo.",
+    "desc": "El paraíso jamás será paraíso a no ser que mis gatos estén ahí esperándome.",
+    "des": "Como todo dueño de un gato sabe, nadie es dueño de un gato.",
     "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094488/assets/nube_kin1i5.jpg"
 },
 {
@@ -176,6 +242,9 @@
     "city": "Vicálvaro",
     "gender": "Macho",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "descrip": "Un gato también puede ser tu mejor amigo.",
+    "desc": "El paraíso jamás será paraíso a no ser que mis gatos estén ahí esperándome.",
+    "des": "Como todo dueño de un gato sabe, nadie es dueño de un gato.",
     "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094483/assets/po_i3pnpp.jpg"
 },
 {
@@ -184,6 +253,9 @@
     "city": "Carabanchel",
     "gender": "Hembra",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "descrip": "Un gato también puede ser tu mejor amigo.",
+    "desc": "El paraíso jamás será paraíso a no ser que mis gatos estén ahí esperándome.",
+    "des": "Como todo dueño de un gato sabe, nadie es dueño de un gato.",
     "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094482/assets/bolon%CC%83esa_j34rq2.jpg"
 },
 {
@@ -192,6 +264,9 @@
     "city": "Fuencarral",
     "gender": "Macho",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "descrip": "Un gato también puede ser tu mejor amigo.",
+    "desc": "El paraíso jamás será paraíso a no ser que mis gatos estén ahí esperándome.",
+    "des": "Como todo dueño de un gato sabe, nadie es dueño de un gato.",
     "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094481/assets/ferrerito_pqy3w2.jpg"
 },
 {
@@ -200,6 +275,9 @@
     "city": "Casa de Campo",
     "gender": "Macho",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "descrip": "Un gato también puede ser tu mejor amigo.",
+    "desc": "El paraíso jamás será paraíso a no ser que mis gatos estén ahí esperándome.",
+    "des": "Como todo dueño de un gato sabe, nadie es dueño de un gato.",
     "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094481/assets/ferrerito_pqy3w2.jpg"
 },
 {
@@ -208,6 +286,9 @@
     "city": "Pinto",
     "gender": "Hembra",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "descrip": "Un gato también puede ser tu mejor amigo.",
+    "desc": "El paraíso jamás será paraíso a no ser que mis gatos estén ahí esperándome.",
+    "des": "Como todo dueño de un gato sabe, nadie es dueño de un gato.",
     "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094478/assets/pepota_o2oshb.jpg"
 },
 {
@@ -216,6 +297,9 @@
     "city": "San Martín de la Vaga",
     "gender": "Macho",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "descrip": "Un gato también puede ser tu mejor amigo.",
+    "desc": "El paraíso jamás será paraíso a no ser que mis gatos estén ahí esperándome.",
+    "des": "Como todo dueño de un gato sabe, nadie es dueño de un gato.",
     "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094473/assets/garfield_qh2fhj.jpg"
 },
 {
@@ -224,6 +308,9 @@
     "city": "Cercedilla",
     "gender": "Hembra",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "descrip": "Un gato también puede ser tu mejor amigo.",
+    "desc": "El paraíso jamás será paraíso a no ser que mis gatos estén ahí esperándome.",
+    "des": "Como todo dueño de un gato sabe, nadie es dueño de un gato.",
     "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094470/assets/cardi_vyrkjx.jpg"
 },
 {
@@ -232,6 +319,9 @@
     "city": "Colmenar Viejo",
     "gender": "Macho",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "descrip": "Un gato también puede ser tu mejor amigo.",
+    "desc": "El paraíso jamás será paraíso a no ser que mis gatos estén ahí esperándome.",
+    "des": "Como todo dueño de un gato sabe, nadie es dueño de un gato.",
     "img": "https://res.cloudinary.com/dvfxffbqu/image/upload/v1677094468/assets/Bimo_dtmqyp.jpg"
 }]
  
